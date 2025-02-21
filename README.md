@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is mindcreator9 and I'm a fullstack, from puerto rico</h2>
+<h2 align="left">Hi 👋! My name is mindcreator9 and I'm a fullstack, from Puerto Rico</h2>
 
 ###
 
